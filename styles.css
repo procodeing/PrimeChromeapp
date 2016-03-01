@@ -1,0 +1,14 @@
+/* CSS file placeholder. */
+.container{
+  
+  overflow-wrap:break-word;
+  overflow-y:scroll;
+  width:500px;
+  height:300px;
+}
+
+body{
+  
+      -webkit-user-select: text;
+  
+}
